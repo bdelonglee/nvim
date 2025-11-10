@@ -1,0 +1,6 @@
+-- Keep Calss/Function context on the top line
+return {
+  {
+    'nvim-treesitter/nvim-treesitter-context',
+  },
+}
